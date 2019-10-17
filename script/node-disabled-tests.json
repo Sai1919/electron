@@ -175,6 +175,7 @@
   "parallel/test-worker-message-channel",
   "parallel/test-worker-message-port-transfer-duplicate",
   "parallel/test-worker-message-port-transfer-target",
+  "parallel/test-worker-message-port",
   "parallel/test-worker-ref-onexit",
   "parallel/test-worker-sharedarraybuffer-from-worker-thread",
   "parallel/test-worker-stdio",
@@ -292,6 +293,8 @@
   "pseudo-tty/test-tty-wrap",
   "parallel/test-cluster-master-kill",
   "parallel/test-cluster-master-error",
+  "parallel/test-source-map",
   "sequential/test-timers-block-eventloop",
-  "sequential/test-timers-set-interval-excludes-callback-duration"
+  "sequential/test-timers-set-interval-excludes-callback-duration",
+  "wpt/test-encoding"
 ]
